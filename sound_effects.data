@@ -1,0 +1,4 @@
+#  List of loaded sound effects.
+#  Entries are given as $effectName.mp3 = $sourceFile
+rickroll.mp3=[LOCAL]{__PROJECT_ROOT__}/rickroll.mp4
+
